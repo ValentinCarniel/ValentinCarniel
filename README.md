@@ -44,6 +44,6 @@
 <a href="https://www.linkedin.com/in/valentin-carniel-139043300/"><img src="https://img.shields.io/badge/-Jose%20Valentin%20Carniel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:josevalentincarniel@gmail"><img src="https://img.shields.io/badge/-josevalentincarniel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@ValentinCarniel_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/ValentinCarniel"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/ValentinCarniel"><img src="https://img.shields.io/badge/-@ValentinCarniel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
