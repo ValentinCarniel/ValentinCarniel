@@ -33,6 +33,15 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
+### 🚀 Featured Projects
+
+<a href="https://github.com/ValentinCarniel/Tutorias_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
+</a>
+<a href="https://github.com/ValentinCarniel/property-recommenderv2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
+</a>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
