@@ -36,23 +36,39 @@
 
 ### 🚀 Featured Projects
 
+<div align="center">
+
 <a href="https://github.com/ValentinCarniel/Tutorias_app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
-</a>  
-📌 **Tutorías App** – Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones.  
-🔧 Tecnologías: Python, FastAPI, MySQL, HTML, CSS
+</a>
+
+📚 **Tutorías App**  
+Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones.  
+🔧 Tecnologías: *Python, FastAPI, MySQL, HTML, CSS*
+
+---
 
 <a href="https://github.com/ValentinCarniel/property-recommenderv2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
-</a>  
-📌 **Property Recommender** – Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda.  
-🔧 Tecnologías: Python, Flask, SQLAlchemy, Bootstrap
+</a>
+
+🏠 **Property Recommender**  
+Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda.  
+🔧 Tecnologías: *Python, Flask, SQLAlchemy, Bootstrap*
+
+---
 
 <a href="https://github.com/ValentinCarniel/ChatBot-Ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
-</a>  
-📌 **Chatbot-AI para Reclamos Vecinales** – Chatbot desarrollado para una feria de ciencias (proyecto premiado), capaz de gestionar reclamos vecinales automáticamente.  
-🔧 Tecnologías: Python, FastAPI, REST API, HTML, CSS
+</a>
+
+🤖 **Chatbot-AI para Reclamos Vecinales**  
+Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente.  
+🔧 Tecnologías: *Python, FastAPI, REST API, HTML, CSS*
+
+</div>
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
