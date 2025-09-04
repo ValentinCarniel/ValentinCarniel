@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm learning more about Artificial Intelligence and Web Development.  
 ✍️ &nbsp;In my free time, I take online courses and play video games.  
 💬 &nbsp;Feel free to reach out for pro bono consulting, volunteering, or just an interesting discussion.  
-✉️ &nbsp;You can email me at **josevalentincarniel@gmail.com** — I’ll try to respond as soon as I can.
+✉️ &nbsp;You can email me at **josevalentincarniel@gmail.com** — I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -37,32 +37,37 @@
 
 ### 🚀 Featured Projects
 
-<!-- START PROJECTS -->
 <div align="center">
 
-<a href="https://github.com/ValentinCarniel/property-recommenderv2" style="text-decoration:none">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
-  <p style="text-align:center;color:#333;margin-top:5px;">🏠 Property Recommender Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda. 🔧 Tecnologías: Python, Flask, SQLAlchemy, Bootstrap</p>
-</a>
+### 🏠 [Property Recommender](https://github.com/ValentinCarniel/property-recommenderv2)
+[![Property Recommender](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia)](https://github.com/ValentinCarniel/property-recommenderv2)
 
-<a href="https://github.com/ValentinCarniel/Tutorias_app" style="text-decoration:none">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
-  <p style="text-align:center;color:#333;margin-top:5px;">📚 Tutorías App Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones. 🔧 Tecnologías: Python, FastAPI, MySQL, HTML, CSS</p>
-</a>
+**Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda.**  
+🔧 **Tecnologías:** Python, Flask, SQLAlchemy, Bootstrap
 
-<a href="https://github.com/ValentinCarniel/Chatbot-Ai" style="text-decoration:none">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
-  <p style="text-align:center;color:#333;margin-top:5px;">🤖 Chatbot-AI para Reclamos Vecinales Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente. 🔧 Tecnologías: Python, FastAPI, REST API, HTML, CSS</p>
-</a>
+---
+
+### 📚 [Tutorías App](https://github.com/ValentinCarniel/Tutorias_app)
+[![Tutorías App](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia)](https://github.com/ValentinCarniel/Tutorias_app)
+
+**Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones.**  
+🔧 **Tecnologías:** Python, FastAPI, MySQL, HTML, CSS
+
+---
+
+### 🤖 [Chatbot-AI para Reclamos Vecinales](https://github.com/ValentinCarniel/Chatbot-Ai)
+[![Chatbot-AI](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia)](https://github.com/ValentinCarniel/Chatbot-Ai)
+
+**Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente.**  
+🔧 **Tecnologías:** Python, FastAPI, REST API, HTML, CSS
 
 </div>
-<!-- END PROJECTS -->
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ValentinCarniel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ValentinCarniel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/username=ValentinCarniel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ValentinCarniel&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
