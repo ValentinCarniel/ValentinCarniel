@@ -56,7 +56,6 @@
 </a>
 
 </div>
-
 <!-- END PROJECTS -->
 
 ### ⚙️ &nbsp;GitHub Analytics
