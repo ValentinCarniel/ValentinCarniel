@@ -1,7 +1,7 @@
 ![Jose Valentin Carniel Banner](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-<h2>Hey there! I'm Valentin</h2>
+<h2>Hey there! I'm Valentin 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ---
 
@@ -40,25 +40,27 @@
 <div align="center">
 
 <a href="https://github.com/ValentinCarniel/property-recommenderv2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia&show_owner=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/ValentinCarniel/Tutorias_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia&show_owner=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/ValentinCarniel/Chatbot-Ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia&show_owner=true&hide_border=true" />
 </a>
 
 </div>
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ValentinCarniel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ValentinCarniel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ValentinCarniel&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ValentinCarniel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ValentinCarniel&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
@@ -67,8 +69,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/valentin-carniel-139043300/"><img src="https://img.shields.io/badge/-Jose%20Valentin%20Carniel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:josevalentincarniel@gmail.com"><img src="https://img.shields.io/badge/-josevalentincarniel@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ValentinCarniel"><img src="https://img.shields.io/badge/-@ValentinCarniel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/ValentinCarniel"><img src="https://img.shields.io/badge/-@ValentinCarniel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/valentin-carniel-139043300/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:josevalentincarniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ValentinCarniel"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/ValentinCarniel"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
