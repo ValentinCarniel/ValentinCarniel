@@ -41,6 +41,9 @@
 <a href="https://github.com/ValentinCarniel/property-recommenderv2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
 </a>
+<a href="https://github.com/ValentinCarniel/ChatBot-Ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
+</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
