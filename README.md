@@ -40,26 +40,20 @@
 <!-- START PROJECTS -->
 <div align="center">
 
-<a href="https://github.com/ValentinCarniel/property-recommenderv2">
+<a href="https://github.com/ValentinCarniel/property-recommenderv2" style="text-decoration:none">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
+  <p style="text-align:center;color:#333;margin-top:5px;">🏠 Property Recommender Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda. 🔧 Tecnologías: Python, Flask, SQLAlchemy, Bootstrap</p>
 </a>
 
-**property-recommenderv2**  
-🏠 Property Recommender Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda. 🔧 Tecnologías: Python, Flask, SQLAlchemy, Bootstrap  
-
-<a href="https://github.com/ValentinCarniel/Tutorias_app">
+<a href="https://github.com/ValentinCarniel/Tutorias_app" style="text-decoration:none">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
+  <p style="text-align:center;color:#333;margin-top:5px;">📚 Tutorías App Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones. 🔧 Tecnologías: Python, FastAPI, MySQL, HTML, CSS</p>
 </a>
 
-**Tutorias_app**  
-📚 Tutorías App Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones. 🔧 Tecnologías: Python, FastAPI, MySQL, HTML, CSS  
-
-<a href="https://github.com/ValentinCarniel/Chatbot-Ai">
+<a href="https://github.com/ValentinCarniel/Chatbot-Ai" style="text-decoration:none">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
+  <p style="text-align:center;color:#333;margin-top:5px;">🤖 Chatbot-AI para Reclamos Vecinales Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente. 🔧 Tecnologías: Python, FastAPI, REST API, HTML, CSS</p>
 </a>
-
-**Chatbot-Ai**  
-🤖 Chatbot-AI para Reclamos Vecinales Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente. 🔧 Tecnologías: Python, FastAPI, REST API, HTML, CSS  
 
 </div>
 
