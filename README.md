@@ -39,27 +39,17 @@
 
 <div align="center">
 
-### 🏠 [Property Recommender](https://github.com/ValentinCarniel/property-recommenderv2)
-[![Property Recommender](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia)](https://github.com/ValentinCarniel/property-recommenderv2)
+<a href="https://github.com/ValentinCarniel/property-recommenderv2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
+</a>
 
-**Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda.**  
-🔧 **Tecnologías:** Python, Flask, SQLAlchemy, Bootstrap
+<a href="https://github.com/ValentinCarniel/Tutorias_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
+</a>
 
----
-
-### 📚 [Tutorías App](https://github.com/ValentinCarniel/Tutorias_app)
-[![Tutorías App](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia)](https://github.com/ValentinCarniel/Tutorias_app)
-
-**Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones.**  
-🔧 **Tecnologías:** Python, FastAPI, MySQL, HTML, CSS
-
----
-
-### 🤖 [Chatbot-AI para Reclamos Vecinales](https://github.com/ValentinCarniel/Chatbot-Ai)
-[![Chatbot-AI](https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia)](https://github.com/ValentinCarniel/Chatbot-Ai)
-
-**Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente.**  
-🔧 **Tecnologías:** Python, FastAPI, REST API, HTML, CSS
+<a href="https://github.com/ValentinCarniel/Chatbot-Ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
+</a>
 
 </div>
 
