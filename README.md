@@ -1,14 +1,15 @@
 ![Jose Valentin Carniel Banner](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
 
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Valentin</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2>Hey there! I'm Valentin</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy exploring new technologies and developing software solutions.\
-🎓 &nbsp;I'm currently in my final year of Software Development at ISVDR.\
-🌱 &nbsp;I'm learning more about Artificial Intelligence and Web Development.\
-✍️ &nbsp;In my free time, I take online courses and play video games.\
-💬 &nbsp;Feel free to reach out for pro bono consulting, volunteering, or just an interesting discussion.\
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions.  
+🎓 &nbsp;I'm currently in my final year of Software Development at ISVDR.  
+🌱 &nbsp;I'm learning more about Artificial Intelligence and Web Development.  
+✍️ &nbsp;In my free time, I take online courses and play video games.  
+💬 &nbsp;Feel free to reach out for pro bono consulting, volunteering, or just an interesting discussion.  
 ✉️ &nbsp;You can email me at **josevalentincarniel@gmail.com** — I’ll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -22,7 +23,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
@@ -42,29 +43,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Tutorias_app&theme=algolia" />
 </a>
 
-📚 **Tutorías App**  
-Plataforma para gestionar tutorías académicas, con registro de usuarios, asignación de turnos y notificaciones.  
-🔧 Tecnologías: *Python, FastAPI, MySQL, HTML, CSS*
-
----
-
 <a href="https://github.com/ValentinCarniel/property-recommenderv2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=property-recommenderv2&theme=algolia" />
 </a>
 
-🏠 **Property Recommender**  
-Sistema de recomendación de propiedades usando filtros y algoritmos de búsqueda.  
-🔧 Tecnologías: *Python, Flask, SQLAlchemy, Bootstrap*
-
----
-
 <a href="https://github.com/ValentinCarniel/ChatBot-Ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinCarniel&repo=Chatbot-Ai&theme=algolia" />
 </a>
-
-🤖 **Chatbot-AI para Reclamos Vecinales**  
-Proyecto premiado en feria de ciencias 🎉. Chatbot capaz de gestionar reclamos vecinales automáticamente.  
-🔧 Tecnologías: *Python, FastAPI, REST API, HTML, CSS*
 
 </div>
 
